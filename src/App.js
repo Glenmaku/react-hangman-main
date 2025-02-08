@@ -38,7 +38,7 @@ function WaitingScreen({ handleUserClickStart }) {
             <p>Guess the word to save the hanging man.</p>
           </div>
           <button onClick={handleUserClickStart}>Start</button>
-          <p className="credits">Made with ❤ by <a href="https://github.com/markcalendario">Mark Kenneth Calendario</a></p>
+          <p className="credits">Made with ❤ by <a href="https://github.com/markcalendario">Glen Mark Dela Cruz</a></p>
         </div>
       </div>
     </section>
